@@ -2,64 +2,43 @@
 
 ## Getting Started
 * Fork and clone this repository
-* Use a separate file for each exercise. This will make it easier to keep track of solutions
-  * It may also be beneficial to copy/paste any data structures provided
-* Write JavaScript code to obtain the data prompted by each question
-* Run each file by typing `node js/nameOfFile.js`
+* Use the files provided for each exercise. This will make it easier to keep track of solutions
+* Write JavaScript code to obtain the data prompted by each question (included in js files)
+* Run each file by typing `node nameOfFile.js`
 
 ---
 
 ### array1.js
-
-**Requirements**
-* Blah
-* Blah
-* Blah
+Add elements to an array.
 
 ---
 
 ### array2.js
+Put two arrays together.
 
 **Requirements**
-* Blah
-* Blah
-* Blah
+* First, use Array functions.
+* Then, solve using Array spread operator.
 
 ---
 
 ### array3.js
-
-**Requirements**
-* Blah
-* Blah
-* Blah
+Removing specific elements from an array.
 
 ---
 
 ### object1.js
-
-**Requirements**
-* Blah
-* Blah
-* Blah
+Accessing deep, nested values in Objects.
 
 ---
 
 ### object2.js
-
-**Requirements**
-* Blah
-* Blah
-* Blah
+Accessing values using Object bracket syntax.
 
 ---
 
 ### object3.js
-
-**Requirements**
-* Blah
-* Blah
-* Blah
+Retrieving keys from an Object.
 
 ---
 
